@@ -2,7 +2,7 @@
 name: Website Bug report
 about: Use this template if you have an issue with the SkinCreator WEBSITE
 title: ''
-labels: awaiting confirmation, bug
+labels: awaiting confirmation, bug, website
 assignees: ''
 
 ---

@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: awaiting confirmation, enhancement
+labels: awaiting confirmation, bug, enhancement
 assignees: ''
 
 ---
