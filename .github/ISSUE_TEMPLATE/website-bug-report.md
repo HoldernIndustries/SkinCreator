@@ -2,7 +2,7 @@
 name: Website Bug report
 about: Use this template if you have an issue with the SkinCreator WEBSITE
 title: ''
-labels: bug
+labels: awaiting confirmation, bug
 assignees: ''
 
 ---
@@ -26,7 +26,7 @@ If applicable, add screenshots to help explain your problem.
 **Versions used (please complete the following information):**
  - Server [e.g. Paper 1.20.4 Build 478]
  - Browser [e.g. Firefox 124.0.2 (64-Bit)]
- - SkinCreator Plugin [e.g. 1.0.0]
+ - SkinCreator Plugin [e.g. SkinCreator 1.0.0]
 
 **Additional context**
 Add any other context about the problem here.
