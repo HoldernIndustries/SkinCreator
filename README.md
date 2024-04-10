@@ -6,4 +6,4 @@
 
 ## Wiki
 
-[The Wiki can be found here](b.com/HoldernIndustries/SkinCreator/wiki)
+[The Wiki can be found here](https://github.com/HoldernIndustries/SkinCreator/wiki)
