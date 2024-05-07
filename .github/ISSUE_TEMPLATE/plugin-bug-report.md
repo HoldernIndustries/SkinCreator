@@ -24,8 +24,10 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Versions used (please complete the following information):**
- - Server [e.g. Paper 1.20.4 Build 478]
  - SkinCreator Plugin [e.g. SkinCreator 1.0.0]
+ - Spigot/Paper Server [e.g. Paper 1.20.4 Build 478]
+ - If applicable: BungeeCord/Velocity Server [e.g. git:BungeeCord-Bootstrap:1.20-R0.3-SNAPSHOT:18eae8a:1842]
+ - SkinsRestorer Plugin [e.g. 15.0.13 8e4c6e2]
 
 **Additional context**
 Add any other context about the problem here.
